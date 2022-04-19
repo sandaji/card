@@ -1,0 +1,20 @@
+/** @format */
+
+body {
+  background: url(./2_5283034753056902191.jpg),white;
+  background-size: cover;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  position: relative;
+  margin: 10px;
+  border-radius: 10px;
+  background-color: #49c6ca46;
+  box-shadow: 5px 5px 30px #00000066;
+  height: 350px;
+  width: 250px;
+}
